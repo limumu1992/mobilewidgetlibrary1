@@ -1,0 +1,128 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:94px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u43 {
+  border-width:0px;
+  position:absolute;
+  left:35px;
+  top:37px;
+  width:59px;
+  height:29px;
+  overflow:hidden;
+}
+#u43_state0 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:59px;
+  height:29px;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
+  background-image:none;
+}
+#u43_state0_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u44_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:13px;
+  height:20px;
+}
+#u44 {
+  border-width:0px;
+  position:absolute;
+  left:10px;
+  top:4px;
+  width:13px;
+  height:20px;
+}
+#u44_img.mouseDown {
+}
+#u44.mouseDown {
+}
+#u44_img.selected {
+}
+#u44.selected {
+}
+#u45 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:2px;
+  width:9px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u46_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:29px;
+  height:20px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  color:#F05B47;
+}
+#u46 {
+  border-width:0px;
+  position:absolute;
+  left:25px;
+  top:4px;
+  width:29px;
+  height:20px;
+  color:#F05B47;
+}
+#u46_div.selected {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:29px;
+  height:20px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  color:#F05B47;
+}
+#u46.selected {
+}
+#u47 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:2px;
+  width:29px;
+  white-space:nowrap;
+}
